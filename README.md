@@ -14,7 +14,7 @@ I’m actively developing my background in the field of **Data Analysis** and **
 `Python`, `SQL`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`<br> 
 `CatBoost`, `LightGBM`, `PySpark`, `Keras`, `NLTK`, `SpaCy`, `Streamlit`, `Git`, `Jupyter`
 
-## [Check my projects](Yandex.Practicum_projects/, "Open repo with projects")
+## [Check my projects](https://github.com/perv0vser/Yandex.Practicum_projects.git/ "Open repo with projects") 
 
 ### Connect with me:
 [<img align="left" alt="perv0vser | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
