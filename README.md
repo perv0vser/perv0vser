@@ -4,7 +4,7 @@
 
 I’m actively developing my background in the field of **Data Analysis** and **Machine Learning (Data Science)**:
 
-- 🌱 Completed professional retraining course in Data Science (Yandex.Practicum) and keep keep daily self-educating 
+- 🌱 Completed professional retraining course in Data Science (Yandex.Practicum) and keep daily self-educating 
 - 🔭 Currently working on my pet projects
 - 👯 Also participate in workshops (Yandex) and hackathons (Kaggle)
 - 🤔 Hope to develop even faster in a strong team that works on interesting, modern cases
