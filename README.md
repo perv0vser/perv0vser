@@ -19,7 +19,7 @@ I’m actively developing my background in the field of **Data Analysis** and **
 ### Connect with me:
 [<img align="left" alt="perv0vser | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="perv0vser | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="perv0vser | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <br />
 <br />
@@ -31,7 +31,7 @@ I’m actively developing my background in the field of **Data Analysis** and **
 
 [telegram]: https://t.me/sergeypervov/
 [instagram]: https://www.instagram.com/mamkin.digitalnomad/
-
+[kaggle]: https://www.kaggle.com/sergeypervov/
 
 
 
