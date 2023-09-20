@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**perv0vser/perv0vser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Sergey Pervov!
 
-Here are some ideas to get you started:
+I’m actively developing my background in the field of **Data Analysis** and **Machine Learning (Data Science)**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Completed professional retraining course in Data Science (Yandex.Practicum) and keep keep daily self-educating 
+- 🔭 Currently working on my pet projects
+- 👯 Also participate in workshops (Yandex) and hackathons (Kaggle)
+- 🤔 Hope to develop even faster in a strong team that works on interesting, modern cases
+
+### So I'm open for job offers!
+
+`Python`, `SQL`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`<br> 
+`CatBoost`, `LightGBM`, `PySpark`, `Keras`, `NLTK`, `SpaCy`, `Streamlit`, `Git`, `Jupyter`
+
+## [Check my projects](Yandex.Practicum_projects/, "Open repo with projects")
+
+### Connect with me:
+[<img align="left" alt="perv0vser | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="perv0vser | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+<br />
+<br />
+
+---
+
+
+
+
+[telegram]: https://t.me/sergeypervov/
+[instagram]: https://www.instagram.com/mamkin.digitalnomad/
+
+
+
+
