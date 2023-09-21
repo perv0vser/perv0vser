@@ -24,14 +24,7 @@ I’m actively developing my background in the field of **Data Analysis** and **
 <br />
 <br />
 
----
-
-
-
 
 [telegram]: https://t.me/sergeypervov/
 [instagram]: https://www.instagram.com/mamkin.digitalnomad/
 [kaggle]: https://www.kaggle.com/sergeypervov/
-
-
-
