@@ -4,10 +4,11 @@
 
 I’m actively developing my background in the field of **Data Analysis** and **Machine Learning (Data Science)**:
 
-- 🌱 Completed professional retraining course in Data Science (Yandex.Practicum) and keep daily self-educating 
-- 🔭 Currently working on my pet projects
+- 🌱 Completed professional retraining course in Data Science (Yandex.Practicum) and keep daily self-educating
+- 👨‍💻 Сompleted an internship at a telemedicine startup (Tabular ML)
+- 🔭 Currently working on my pet projects and looking for a job in ML/Big Data
 - 👯 Also participate in workshops (Yandex) and hackathons (Kaggle)
-- 🤔 Hope to develop even faster in a strong team that works on interesting, modern cases
+- 🤔 Hope to grow even faster in a strong team that works on interesting, modern cases
 
 ### So I'm open for job offers!
 
