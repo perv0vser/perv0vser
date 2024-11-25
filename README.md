@@ -4,7 +4,7 @@
 
 Я активно развиваюсь в сфере **Анализа данных (DA)** и **Машинного обучения (ML/DS)**:
 
-- 👨‍🎓 Прошел курс профессиональной переподготовки на специалиста по Data Science (от Яндекс Практикума) и продолжаю постоянное самообучение
+- 👨‍🎓 Окончил курс профессиональной переподготовки на специалиста по Data Science (от Яндекс Практикума) и продолжаю постоянное самообучение
 - 🦾 Выполнил более 15 проектов по аналитике данных и машинному обучению (табличные данные, NLP, CV)
 - 👨‍💻 Прошел стажировку в стартапе, разрабатывающем ML/DL решения для телемедицины
 - 💼 Участвовал в мастерских (от Яндекс) и хакатонах (от Kaggle)
@@ -15,7 +15,7 @@
 **Stack**:
 `Python`, `SQL`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`<br> 
 `CatBoost`, `LightGBM`, `XGBoost`, `PySpark`, `PyTorch`, `Keras`, `TensorFlow`, `NLTK`, `SpaCy`<br>
-`Streamlit`, `Git`, `Yandex DataLens`
+`Streamlit`, `Git`, `Yandex DataLens`<br>
 **IDE**: 
 `VS Code`, `Jupyter Notebook`, `Google Colab`, `PyCharm`
 
@@ -54,7 +54,7 @@ I’m actively developing my background in the field of **Data Analysis** and **
 **Stack**:
 `Python`, `SQL`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`<br> 
 `CatBoost`, `LightGBM`, `XGBoost`, `PySpark`, `PyTorch`, `Keras`, `TensorFlow`, `NLTK`, `SpaCy`<br>
-`Streamlit`, `Git`, `Yandex DataLens`
+`Streamlit`, `Git`, `Yandex DataLens`<br>
 **IDE**: 
 `VS Code`, `Jupyter Notebook`, `Google Colab`, `PyCharm`
 
